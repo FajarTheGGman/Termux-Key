@@ -12,6 +12,6 @@ f = open("termux.properties", "w")
 f.write("extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]")
 f.close()
 
-os.system("mv termux.properties .termux")
+os.system("mv termux.properties ../.termux")
 
 print("[!] Please Restart Your Termux")
