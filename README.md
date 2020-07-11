@@ -8,7 +8,7 @@
 1.apt-get install git -y
 2.git clone https://github.com/FajarTheGGman/Termux-Key
 3.cd Termux-Key
-4.sh install.sh
+4.bash run.sh
 </pre>
 
 # Support Me :)
